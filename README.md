@@ -10,7 +10,7 @@
 
 ## 💡 Repositório:
 
-Repositorio foi desenvolvido para projeto modulo 1 curso AceleraDev React.<br/>
+Repositorio foi desenvolvido para projeto modulo 2 curso AceleraDev React.<br/>
 Estatico, versão mobile first do Instagram utilizando apenas HTML5 e CSS3.
 
 <br/>
